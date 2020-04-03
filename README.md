@@ -3,6 +3,10 @@
 ## RUN
 
 ```
+mkdir -p /teamspeak/mariadb/data
+```
+
+```
 docker app run watchdg/teamspeak-app --name teamspeak
 ```
 
