@@ -1,0 +1,6 @@
+version: 0.1.0
+name: teamspeak-app
+description: teamspeak application
+maintainers:
+  - name: Grigoriy Baranov
+    email: baranov@w3m.co
